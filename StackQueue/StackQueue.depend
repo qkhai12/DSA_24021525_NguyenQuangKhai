@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1792643682 source:d:\study\c++\dsa\stackqueue\main.cpp
+	"Stack.h"
+	"Queue.h"
+
+1792643029 source:d:\study\c++\dsa\stackqueue\testlist.cpp
+	"List.h"
+
+1792642951 d:\study\c++\dsa\stackqueue\list.h
+	<iostream>
+	"common.h"
+
+1792643122 d:\study\c++\dsa\stackqueue\common.h
+	<climits>
+
+1792643649 d:\study\c++\dsa\stackqueue\stack.h
+	"List.h"
+	"LinkedList.h"
+
+1792642972 d:\study\c++\dsa\stackqueue\linkedlist.h
+	<iostream>
+	"common.h"
+
+1792643671 d:\study\c++\dsa\stackqueue\queue.h
+	"List.h"
+	"LinkedList.h"
+
